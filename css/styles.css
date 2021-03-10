@@ -6,6 +6,21 @@ body{
     background-color: #ffffff;
     margin: auto;
 }
+
+.boton-git a {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ff5e00;
+    width: 400px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 12px 0;
+    color: #FFF;
+    border: .5px solid #FFF;
+    border-radius: 20px;
+    position: relative;
+}
+
 h1{
     font-size: 3em;
     color: #ffffff;
